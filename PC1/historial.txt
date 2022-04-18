@@ -1,0 +1,18 @@
+**********************************************
+16/4/2022-> Ingreso de: S/.200 // Gasto de: S/.200 en Comida a las 19:42
+SALDO ACTUAL: 500
+**********************************************
+16/4/2022-> Ingreso de: S/.200 // Gasto de: S/.20 en Comida a las 19:46
+SALDO ACTUAL: 60
+**********************************************
+16/4/2022-> Ingreso de: S/.500 // Gasto de: S/.150 en Comida a las 19:56
+SALDO ACTUAL: 410
+**********************************************
+16/4/2022-> Ingreso de: S/.500 // Gasto de: S/.200 en Transporte a las 19:56
+SALDO ACTUAL: 300
+**********************************************
+16/4/2022-> Ingreso de: S/.0 // Gasto de: S/.0 en  a las 20:16
+SALDO ACTUAL: 0
+**********************************************
+16/4/2022-> Ingreso de: S/.1000 // Gasto de: S/.1000 en Comida a las 21:12
+SALDO ACTUAL: -1400
